@@ -12,5 +12,6 @@ order: 1
 </header>
 
 <footer>
-  <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+  <a href="/blog" class="button scrolly">Ga gelijk naar de verhalen</a>
+  <a href="#korte-geschiedenis" class="button scrolly">Of lees een korte geschiedenis</a>
 </footer>
