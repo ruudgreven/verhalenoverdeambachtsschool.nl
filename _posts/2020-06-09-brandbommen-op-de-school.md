@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1944 - Brandbommen”
+title:  ‘1944 - Brandbommen’
 date:   1944-02-22 0:00:00 +0100
 categories: oorlog
 icon: fa-pen
