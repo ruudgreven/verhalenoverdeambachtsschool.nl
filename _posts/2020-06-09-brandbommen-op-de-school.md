@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  1944 - Brandbommen op de school
-date:   1944-02-22 0:00:00 +0100
+date:   1944-02-22 12:00:00 +0100
 categories: oorlog
 icon: fa-pen
 ---
