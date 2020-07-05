@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1944 - Brandbommen"
+title:  "1944 - Brandbommen op de school”
 date:   1944-02-22 0:00:00 +0100
 categories: oorlog
 icon: fa-pen
@@ -20,5 +20,7 @@ Rond 19:00 uur is de hele bovenverdieping verbrand en daarmee is de mooie orgine
 Pas veel later, rond 1949, zijn ze begonnen met het bouwen van de nieuwe kap. De foto hierboven van de school in de steigers is van 1949 en toen moesten de bouwwerkzaamheden nog beginnen.  Op 22 november 1951 opent de burgemeester de vernieuwde ambachtsschool, die niet alleen een nieuwe kap heeft gekregen, maar voor de gelegenheid ook verder helemaal is vernieuwd. Er zijn in totaal 46 lokalen, waarvan er 9 zich in de nieuwe kap bevinden. Dit zijn vooral theorielokalen. Ook hebben leerlingen van de school een groot aquarium gebouwd in de kantine en is de directiekamer toen helemaal vernieuwd. De school telde toen overigens zo'n zestienhonderd leerlingen, ruim 900 op de avondopleiding en 700 op de dagopleiding, allemaal jongens.
 
 Bronnen:
-- Krantenartikelen uit Twentsch Dagblad Tubantia, [www.delpher.nl](http://www.delpher.nl)
+- Krantenartikelen uit Twentsch Dagblad Tubantia, [www.delpher.nl][1]
 - Beschouwingen over 125 jaar Openbaar Voortgezet Onderwijs te Enschede - H. Reef, W. Sijgers, D. Taat, W.F. Würsten
+
+[1]:	http://www.delpher.nl
